@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @samuel Chege
+- 👋 Hi, I’m Samuel Chege
 - 👀 I’m interested in Programming using C, C++ and Python and Network Security.
 - 🌱 I’m currently learning Network automation using Python.
 - 💞️ I’m looking to collaborate on building Network Security and Network automation tools.
